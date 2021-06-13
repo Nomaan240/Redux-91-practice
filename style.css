@@ -400,7 +400,17 @@ html{
 		/***************
 		(section6) start
 		***************/
+
 .foods{
 	display: flex;
 	justify-content: center;
 }
+
+.foods1{
+	color: #33CC66;
+	font-size: 20px;
+}
+
+		/*************
+		(section6) end
+		*************/
